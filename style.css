@@ -1,0 +1,10 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /*alinha horizontalmente no meio*/
+    align-items: center; /*alinha verticalmente no meio */
+    background-color: aliceblue;
+    color: rgb(52, 165, 52)
+}
